@@ -11,9 +11,14 @@ int main(){
     char name[] = "Satyam"; //array of characters
     //--
     printf("I am %d years old\n", age);
-    printf("Hello %s\n", name);
-    printf("Your average garde is %c\n", grade);
-    printf("Your profit is %f\n", profit);
+    printf("Hello %s\n", name); //%s means string
+    printf("Your average garde is %c\n", grade); //%c means single letter/character
+    printf("Your profit is %f\n", profit); //%f means floating numbers or decimal numbers
 
     return 0;
 }
+
+
+
+
+
