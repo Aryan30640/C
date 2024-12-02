@@ -11,7 +11,7 @@ int main(){
     //--
     printf("I am %d years old\n", age);
     printf("Hello %s\n", name); //%s means string
-    printf("Your average garde is %c\n", grade); //%c means single letter/character
+    printf("Your average grade is %c\n", grade); //%c means single letter/character
     printf("Your profit is %0.2f\n", profit); //%f means floating numbers or decimal numbers
     printf("The value of pi is %0.15lf\n", point); //%lf means double
     //--
