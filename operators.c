@@ -10,5 +10,9 @@ int main(){
     int b = 2;
     int c = a % b;
     printf("%d\n", c);
+    //--
+    int p = 1;
+    p++;
+    printf("%d", p);
     return 0;
 }
