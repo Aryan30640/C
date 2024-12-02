@@ -19,7 +19,7 @@ int main(){
     signed char b = 100; //-128 to +127, signed char === char
     unsigned char c = 20; //0 to +255
     short int d = 32000; //-32,768 to +32767, instead of 'short int' only 'short' can be written
-    unsigned short e = 65000; //0 to +65,
+    unsigned short e = 65000; //0 to +65,355
     int f = 2000000000; //-2 Billion to +2 Billion
     unsigned int g = 4000000000; //0 to +4 Billion
     long long int h = 9000000000000000000; //-9 quintillion to +9 quintillion
